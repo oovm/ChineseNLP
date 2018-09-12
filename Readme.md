@@ -32,7 +32,7 @@
 
 ChineseNLP 定位不是轻量级工具包, 而是大而全的军械库
 
-因此 ChineseNLP 体积过大无法通过 Paclets Server 分发.
+ChineseNLP 体积过大无法通过 PacletsServer 分发.
 
 请手动下载: https://m.vers.site/Paclets/Latest/ChineseNLP.7z
 
@@ -49,7 +49,7 @@ ChineseNLP 定位不是轻量级工具包, 而是大而全的军械库
         - ChineseNLPLoader.m
 ```
 
-## Show Time
+## Functions
 
 ![](https://i.loli.net/2018/09/08/5b938306cb52f.png)
 
@@ -58,3 +58,5 @@ ChineseNLP 定位不是轻量级工具包, 而是大而全的军械库
 ![](https://i.loli.net/2018/09/07/5b929803a4aa3.png)
 
 ## License
+
+> ©Copyright by **Mozilla Public License Version 2.0**.
